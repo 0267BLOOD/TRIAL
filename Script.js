@@ -1,3 +1,1 @@
-function sapa() {
-    alert("Halo! Selamat datang di website saya 🚀");
-}
+function sapa() {alert("Halo! Selamat datang di website saya 🚀");}
